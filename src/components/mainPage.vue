@@ -43,13 +43,16 @@
 
 
 <script>
- import Slide from './Slide.vue'
+ import Slide from './Slide'
 
   export default {
    components: {
     Slide
   }
 }
+
+
+
 
 
 </script>

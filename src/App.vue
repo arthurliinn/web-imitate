@@ -9,7 +9,7 @@
 <script>
 
 
-import mainPage from './components/mainPage.vue'
+import mainPage from './components/mainPage.vue';
 
 export default {
   name: 'app',
